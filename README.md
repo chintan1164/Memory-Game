@@ -75,9 +75,8 @@ This is a simple console-based memory game implemented in Java. The game consist
 
 - Ensure your console supports ANSI escape codes for colored output.
 
-Enjoy playing the memory
-
-game! If you have any issues or suggestions, feel free to open an issue or contribute to the project on GitHub. Happy coding and have fun!
+Enjoy playing the memory game! 
+If you have any issues or suggestions, feel free to open an issue or contribute to the project on GitHub. 
 
 ## License
 
