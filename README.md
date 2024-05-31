@@ -45,9 +45,13 @@ This is a simple console-based memory game implemented in Java. The game consist
 
 ## How to Run
 
-1. **Compile the Java files**:   javac Main.java
+1. **Compile the Java files**:
+    ```sh
+   javac Main.java
    ```
-2. **Run the game**:   java Main
+2. **Run the game**:
+   ```sh
+   java Main
    ```
 
 ## How to Play
