@@ -1,4 +1,4 @@
-# Memory Game in Java
+# Memory Game
 
 ## Overview
 
